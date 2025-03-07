@@ -12,7 +12,7 @@ I am currently focused on driving innovation and operational excellence within D
 
 ## Experience
 
-**DATAWHEEL**, Cambridge, MA, USA (Remote)
+**DATAWHEEL**, Cambridge, MA, USA (Remote) <br>
 **DEVOPS ENGINEER** *(Dec. 2021 - Nov. 2024)* <br>
 
 * Spearheaded the migration from a monolithic system to a scalable, containerized microservices architecture using Docker and Kubernetes, enhancing system flexibility and deployment efficiency.
@@ -24,17 +24,7 @@ I am currently focused on driving innovation and operational excellence within D
 * Developed data visualization platforms that enabled organizations to explore and analyze complex datasets efficiently, integrating raw data ingestion, transformation, and interactive graphical insights.
 * Managed and fine-tuned development and production environments, implementing security best practices and performance optimizations to ensure high availability and scalability.
 
-**CENTER OF INNOVATION SYSTEMS STUDIES (CIS2)**, Concepcion, Chile
+**CENTER OF INNOVATION SYSTEMS STUDIES (CIS2)**, Concepcion, Chile <br>
 **FULLSTACK DEVELOPER** *(Jul. 2019 - Dec. 2019)* <br>
 
 * Contributed to the development of an interactive data visualization platform that provided economic insights for various industries and regions, aiding policymakers and business analysts in data-driven decision-making.
-
-## Education
-
-**Industrial Engineering** *(Mar. 2014 - Ago. 2019)* <br>
-**Universidad de Concepción** <br>
-*Concepción, Chile.*
-
-**Bachelor of Science in Engineering** *(Mar. 2014 - Nov. 2017)* <br>
-**Universidad de Concepción** <br>
-*Concepción, Chile.*
