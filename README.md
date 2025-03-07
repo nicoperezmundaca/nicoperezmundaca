@@ -35,21 +35,6 @@ I am currently focused on driving innovation and operational excellence within D
 **Universidad de Concepción** <br>
 *Concepción, Chile.*
 
-* Relevant Coursework:
-  * Machine Learning
-  * Programming for Engineering
-  * Understanding Consumer Behavior through Discrete Choice Models
-  * Innovation
-  * Innovation Systems
-  * Logistics
-
 **Bachelor of Science in Engineering** *(Mar. 2014 - Nov. 2017)* <br>
 **Universidad de Concepción** <br>
 *Concepción, Chile.*
-
-* Relevant Coursework:
-  * Programming Languages
-  * Statistics and Inference
-  * Systems Modeling
-  * Optimization
-  * Simulation
